@@ -1,0 +1,13 @@
+{
+  "name": "openclaw-skills-for-harmony",
+  "private": true,
+  "version": "0.0.0",
+  "description": "HarmonyOS Skill release repository infrastructure; no published skills yet",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "import": "node tools/import.mjs"
+  },
+  "engines": {"node": ">=22"},
+  "license": "MIT"
+}
